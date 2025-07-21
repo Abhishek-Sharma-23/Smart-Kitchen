@@ -1,1 +1,1 @@
-# Smart-Kitchen
+# Smart-Kitchen project
